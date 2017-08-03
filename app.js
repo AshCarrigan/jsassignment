@@ -59,3 +59,4 @@ this.injectDesc();
 //ONCLICK IS BAD PRACTICE, USE TOGGLE?
 //EVENT LISTENER IS BETTER THAN ON CLICK BECAUSE YOU CAN DEFINE A DIFFERENT EVENT, IT'S MORE FLEXIBLE
 //set alert to make sure document is read by browser
+//notes
